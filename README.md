@@ -34,11 +34,17 @@ The objective is to do this with the minimum queries to the database.
 
 ### Assessment
 We’re looking to evaluate the following skills in basic Laravel:
+ 
  * MVC
+ 
  * CRUD and Resource Controllers
+ 
  * Eloquent and Relationships
+ 
  * Database migrations
+ 
  * Basic Bootstrap front-end
+ 
  * Efficient Database queries.
 
 
